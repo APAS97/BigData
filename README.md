@@ -1,4 +1,4 @@
-The Big data
+Big data
 
-Pascal AU
-Alan ANOUYAHONG
+Pascal AU (21967388)
+
